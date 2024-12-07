@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2J2Mx/PeXL0Gmpk6z9L2uYowqMriFV/TTYrV/6+hkSE=",
+  "Source": "TestService",
+  "BasePath": "_content/TestService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
